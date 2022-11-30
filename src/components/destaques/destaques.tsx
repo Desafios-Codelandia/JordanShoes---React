@@ -13,7 +13,7 @@ const Cartao = ({ img }: any) => {
 
 export const Destaques = () => {
     return (
-        <div className="container mx-auto pt-10 pb-10 md: justify-center items-center">
+        <div className="container mx-auto pt-10 pb-10 justify-center items-center">
             <div className="px-5 text-justify items-center justify-center flex flex-col pb-10">
                 <h1 className="text-3xl font-bold">Destaques</h1>
                 <p>Frete grátis e chinelo de brinde é aqui, aproveite por tempo limitado.</p>
