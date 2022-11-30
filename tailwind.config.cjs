@@ -12,7 +12,7 @@ module.exports = {
         "cor-footer":"#181818"
       },
       backgroundImage:{
-        "Joordan":"url('./src/components/heroSection/jo.png')"
+        "Joordan":"url('../imgs/heroSection/jo.png')"
       },
     },
   },
